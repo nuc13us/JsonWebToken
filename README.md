@@ -1,7 +1,7 @@
 # JsonWebToken
 
 
-
+maps_token: AIzaSyBiGYYnkGzQjcZZF7b8H86tVwVlk4U0dOc
 
 
 username: admin
